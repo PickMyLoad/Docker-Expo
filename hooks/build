@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --build-arg EXPO_VERSION=2.6.12 -t $IMAGE_NAME .
+docker build --build-arg EXPO_VERSION=2.6.14 -t $IMAGE_NAME .
